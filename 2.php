@@ -1,5 +1,5 @@
 <? php
-$s= "Selamat Datang";
+$s= "Assalamualaikum Selamat Datang ";
 
 echo $s;
 ?>
